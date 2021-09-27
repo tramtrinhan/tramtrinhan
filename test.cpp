@@ -3,7 +3,7 @@ using namespace std;
 
 int main() 
 {
-    //in tu hello world ra man hins
-    cout << "\"Hello\n World!\"" << endl;
+    int a = 32, b = 23;
+    cout << a + b << endl;
     return 0;
 }
